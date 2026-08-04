@@ -8,9 +8,9 @@ title: >-
   and Pangenome Diversity in Extensively Drug-Resistant
   Klebsiella pneumoniae 
 message: >-
-  If you use this dataset, please cite it using the metadata
+  If you use these scripts, please cite it using the metadata
   from this file.
-type: dataset
+type: software
 authors:
   - given-names: Harshada
     family-names: Pardeshi
