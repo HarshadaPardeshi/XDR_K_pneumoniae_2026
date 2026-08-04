@@ -1,34 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-title: "Scripts for generating figures for the manuscript "Long-Read Whole-Genome Sequencing Reveals Antimicrobial Resistance, Virulence Determinants, Plasmid Architechture, and Pangenome Diversity in Extensively Drug-Resistant Klebsiella pneumoniae"
-message: "If you use these scripts, please cite this repository."
-type: software
-
+title: >-
+  Long-Read Whole-Genome Sequencing Reveals Antimicrobial
+  Resistance, Virulence Determinants, Plasmid Architechture,
+  and Pangenome Diversity in Extensively Drug-Resistant
+  Klebsiella pneumoniae 
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-  - family-names: "Pardeshi"
-    given-names: "Harshada"
-
-  - family-names: "Namaji"
-    given-names: "Mohammad Ashraf Ali"
-
-  - family-names: "Basutkar"
-    given-names: "Suresh"
-
-  - family-names: "Prabhu"
-    given-names: "Atharva"
-
-  - family-names: "Patole"
-    given-names: "Milind"
-
-  - family-names: "Pardesi"
-    given-names: "Karishma"
-
-  - family-names: "Dhotre"
-    given-names: "Dhiraj"
-
-repository-code: "https://github.com/HarshadaPardeshi/XDR_K_pneumoniae_2026"
+  - given-names: Harshada
+    family-names: Pardeshi
+repository-code: 'https://github.com/HarshadaPardeshi/XDR_K_pneumoniae_2026'
+abstract: >+
+  Collection of R scripts used to generate figures in the
+  study "Long-Read Whole-Genome Sequencing Reveals
+  Antimicrobial Resistance, Virulence Determinants, Plasmid
+  Architechture, and Pangenome Diversity in Extensively
+  Drug-Resistant Klebsiella pneumoniae "
 
 license: MIT
-
-version: "1.0.0"
-
-date-released: 2026-08-04
+version: 1.0.0
+date-released: '2026-08-04'
